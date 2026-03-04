@@ -42,7 +42,7 @@ Currently, product image uploads work locally but may not display correctly in a
 
 ## How to Run
 
-1. Clone the repo:
+1. Clone the repo:<https://github.com/NandiniKarnakota1/BakeKart-Ecommerce.git>
 
 
 2. Configure PostgreSQL:
