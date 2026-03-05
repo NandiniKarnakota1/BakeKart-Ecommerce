@@ -54,8 +54,7 @@ Controller → Service → Repository → Database
 ### Tools
 - Maven
 - Git
-- Docker (basic familiarity)
-- Postman (API testing)
+
 
 ---
 
