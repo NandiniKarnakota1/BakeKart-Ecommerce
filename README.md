@@ -101,6 +101,5 @@ Controller → Service → Repository → Database
 
 ## 👩‍💻 Author
 
-Nandini K  
-Java Backend Developer  
+Nandini Karnakota
 GitHub: https://github.com/NandiniKarnakota1
