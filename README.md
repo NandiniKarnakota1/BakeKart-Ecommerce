@@ -1,38 +1,45 @@
+🛒 BakeKart – E-Commerce Web Application
 
-# BakeKart – Spring Boot Bakery E-Commerce Application
+BakeKart is a full-stack E-commerce web application developed for a bakery business featuring cakes and pizzas. The application enables administrators to manage products and categories while allowing users to browse and view product details.
 
-BakeKart is a simple e-commerce web application for a bakery, featuring cakes and pizzas. Built with **Spring Boot, PostgreSQL, Thymeleaf, HTML, CSS, and Bootstrap**, it allows admins to manage products and categories, and users to view available products.
+🚀 Features
+🔐 Admin Panel
 
----
+Admin login and registration
 
-## Features
+Add, update, and delete products
 
-### Admin Panel
-- Login and registration for admin users
-- Add, update, delete **products** (cakes & pizzas)
-- Add, update, delete **categories** (e.g., Cake, Pizza)
-- Products include **name, price, weight, description, and image**
+Add, update, and delete categories
 
-### User Side
-- Browse products by category
-- View product details
+Product attributes include name, price, weight, description, and image upload
 
-### Backend
-- Spring Boot REST architecture with **Service** and **Repository** layers
-- PostgreSQL database integration
-- Thymeleaf templates for dynamic HTML rendering
-- Fully functional CRUD operations
+👥 User Module
 
----
+Browse products by category
 
-## Tech Stack
+View detailed product information
 
-- **Backend:** Spring Boot, Spring Data JPA, Hibernate
-- **Database:** PostgreSQL
-- **Frontend:** Thymeleaf, HTML, CSS, Bootstrap
-- **Others:** Maven, Java 24, Multipart file upload for product images
+Dynamic rendering using Thymeleaf templates
 
----
+🏗️ Architecture & Backend
+
+Developed using Spring Boot following layered architecture (Controller → Service → Repository)
+
+Implemented Spring Data JPA & Hibernate for ORM
+
+Integrated PostgreSQL database
+
+Implemented full CRUD operations
+
+Used Multipart file upload for handling product images
+
+🛠️ Tech Stack
+
+Backend: Spring Boot, Spring Data JPA, Hibernate
+Database: PostgreSQL
+Frontend: Thymeleaf, HTML, CSS, Bootstrap
+Build Tool: Maven
+Language: Java
 
 ## Note
 
